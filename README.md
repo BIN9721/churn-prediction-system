@@ -15,7 +15,7 @@ Experience the application directly in your browser:
 | Component | Access Link | Status |
 |-----------|-------------|--------|
 | **📊 User Dashboard** | [👉 CLICK HERE TO OPEN APP](https://churn-prediction-system-bdhec36beuuva4lkgyvxbd.streamlit.app/) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
-| **⚙️ Backend API** | [👉 CLICK HERE FOR API DOCS](YOUR_RENDER_LINK_HERE/docs) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **⚙️ Backend API** | [👉 CLICK HERE FOR API DOCS](https://churn-prediction-system-azwj.onrender.com) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
 
 *(Note: Since this project is hosted on a free-tier server, please allow approx. 50 seconds for the backend to wake up during the first request.)*
 
